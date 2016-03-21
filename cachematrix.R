@@ -20,8 +20,8 @@ makeCacheMatrix <- function(x = matrix())
 
 
 ## This function is meant to draw from the cached matrix from the 
-## makeCacheMatrix function and then solve it. If a matrix is not
-## already cached, it calculates it and prints it.
+## makeCacheMatrix function and print it. If a matrix is not
+## already cached, it calculates and then prints it.
 
 
 
